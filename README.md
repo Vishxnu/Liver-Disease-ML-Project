@@ -39,7 +39,7 @@ Since the dataset is **imbalanced**, I applied **SMOTE** to balance the classes 
 
 ├── indian_liver_patient.csv 
 
-└── README.md # Documentation
+└── README.md 
 
 
 ---
