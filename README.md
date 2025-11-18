@@ -33,8 +33,6 @@ Since the dataset is **imbalanced**, I applied **SMOTE** to balance the classes 
 
 📁 Liver-Disease-ML-Project
 
-│
-
 ├── Indian_liver_project.ipynb 
 
 ├── indian_liver_patient.csv 
